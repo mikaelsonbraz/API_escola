@@ -1,7 +1,7 @@
 # Getting Started
 ```bash
 # Clone repository
-git clone https://github.com/mikaelsonbraz/API_Biblioteca.git
+git clone https://github.com/mikaelsonbraz/API_escola.git
 
 # Create Virtual Environment
 python -m venv venv && ./venv/Scripts/Activate.ps1
