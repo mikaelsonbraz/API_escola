@@ -11,6 +11,7 @@ pip install -r requirements.txt
 
 # Run Application
 python manage.py runserver
+
 ```
 
 # API para uma escola
